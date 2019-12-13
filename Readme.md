@@ -19,3 +19,8 @@ But when encounters an object eg. wall, it tries to circumscribe the object whil
 ```bash
 roslaunch km_183437_miniprj start.launch 
 ```
+### Refrences
+
+[1] [Link to Youtube tutorials](https://www.youtube.com/playlist?list=PLK0b4e05LnzY2I4sXWTOA4_82cMh6tL-5)
+
+[2] [Link to the reference code used](https://bitbucket.org/theconstructcore/two-wheeled-robot-motion-planning/src/master/scripts/)
